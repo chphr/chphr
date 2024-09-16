@@ -8,7 +8,11 @@
 
 ## My Contributions
 
-## Preferred Tech Stack
+##  Tech Stack
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-->
 
 ## 🏆 Achievements
 
