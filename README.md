@@ -8,7 +8,7 @@
 
 ## 🧑🏼‍💻 My Contributions & Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chphr&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chphr&hide_progress=true&theme=radical)
 
 ## 📬 Get in Touch
 
