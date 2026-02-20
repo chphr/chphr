@@ -32,7 +32,7 @@ Custom solution design for North American retailers.*
 ### 🛠 Technical Toolkit
 
 - **Architectural Styles:** REST, GraphQL, SOAP, Event-driven architecture.
-- *Cloud:** AWS, Azure.
+- **Cloud:** AWS, Azure.
 - **Protocols & Data:** HL7, BACnet, SQL, Telnet.
 - **Development:** Python (Data Science/NLP), JavaScript, HTML/CSS.
 - **Compliance:** SOC 2, ISO 27001, GDPR.
@@ -42,8 +42,8 @@ Custom solution design for North American retailers.*
 ### 🎓 Education & Certifications
 
 - **B.Sc. Applied Computer Science** – Baden-Wuerttemberg Cooperative State University.
-- [**Data Science & Machine Learning Certificates** – BrainStation Toronto (Focus on NLP and Python pipelines).
-- [*ITIL Foundation Certificate**.
+- **Data Science & Machine Learning Certificates** – BrainStation Toronto (Focus on NLP and Python pipelines).
+- **ITIL Foundation Certificate**.
 
 ---
 
