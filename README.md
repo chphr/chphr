@@ -1,6 +1,6 @@
 # Hi, I'm Christoph Rieger 👋
 
-**Solutions Architect | Integrations Expert | Tech Strategy**
+**Head of Solutions | Integrations Expert | Tech Strategy**
 
 I am a Solutions Architect with over 10 years of experience. I specialize in planning and engineering complex technical integrations and mobile applications for **eCommerce**, **Smart Buildings**, and **Healthcare**.
 
