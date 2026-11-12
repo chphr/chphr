@@ -1,4 +1,4 @@
-# Christoph Rieger — Solutions Architect & Integration Architect 👋
+# Christoph Rieger - Solutions Architect & Integration Architect 👋
 
 **Head of Solutions · API & Systems Integration Expert · Technical Pre-Sales · eCommerce, Smart Buildings & Healthcare**
 
@@ -14,22 +14,22 @@ I'm a **Solutions Architect** with **10+ years of experience** designing and del
 
 ## 🚀 Experience & Key Projects
 
-### 🛒 eCommerce & Social Commerce Integrations — Shopify
+### 🛒 eCommerce & Social Commerce Integrations - Shopify
 *Driving merchant success through platform-wide partner integrations.*
 - **Social commerce partnerships:** Scoped and delivered integration strategies for major partners including **Meta (Facebook & Instagram)**, **Google**, **TikTok**, and **Pinterest**.
 - **API strategy & partner engineering:** Guided partner engineering teams through Shopify's product and **API landscape (REST & GraphQL)** to ensure full commerce life-cycle compatibility.
 
-### 📱 Mobile App Pre-Sales & Security Architecture — Median.co
+### 📱 Mobile App Pre-Sales & Security Architecture - Median.co
 *Leading technical solution design and compliance for mobile applications.*
 - **Security & compliance leadership:** Led the implementation of **SOC 2** and **ISO 27001** compliance programs.
 - **Pre-sales solution architecture:** Designed mobile app solutions for customers across a wide range of industries and environments.
 
-### 🏢 Smart Buildings & 🏥 Healthcare Integrations — ThoughtWire
+### 🏢 Smart Buildings & 🏥 Healthcare Integrations - ThoughtWire
 *Designing global-scale smart building and healthcare interoperability solutions.*
 - **Smart building / IoT integration:** Architected solutions for global smart building projects using **BACnet**, **REST**, and **SOAP**.
 - **Healthcare interoperability:** Led technical discovery for healthcare integrations based on **HL7** standards.
 
-### 🛍️ Retail & Grocery Solutions — Instacart
+### 🛍️ Retail & Grocery Solutions - Instacart
 *Custom solution design for North American retailers.*
 - **Retail integration architecture:** Developed technical architectures for major Canadian and US retailers to streamline digital grocery and eCommerce workflows.
 
@@ -58,8 +58,8 @@ I'm a **Solutions Architect** with **10+ years of experience** designing and del
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. Applied Computer Science** — Baden-Wuerttemberg Cooperative State University (DHBW), Germany
-- **Data Science & Machine Learning Certificates** — BrainStation, Toronto (NLP and Python data pipelines)
+- **B.Sc. Applied Computer Science** - Baden-Wuerttemberg Cooperative State University (DHBW), Germany
+- **Data Science & Machine Learning Certificates** - BrainStation, Toronto (NLP and Python data pipelines)
 - **ITIL Foundation Certificate**
 
 ---
